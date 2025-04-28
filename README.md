@@ -10,10 +10,10 @@ Here's a bit about me:
 
 - 💼 **Skills:**
   - Programming Languages:Python,SQL
-  - Machine Learning Algo : Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN, Boosting, KMeans, Heirarchical Clustering, PCA
+  - Machine Learning Algo. : Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN, Boosting, KMeans, Heirarchical Clustering, PCA
+  - Deep Learning Algo. : Artificial Neural Network (ANN)
   - Statistical methods: Predictive Analysis, Hypothesis Testing ,PCA, Univariate And Bivariate Analysis.
-  - Libraries and Frameworks: Numpy ,Pandas 
-  - Data Reporting Tool: Matplotlib , Seaborn, Tableau, PowerBI
+  - Libraries and Frameworks: Numpy ,Pandas, Matplotlib , Seaborn, Scikit Learn, Tensorflow
   - Database: MySQL
   - Visualization Tools: Tableau, PowerBI, Excel 
   
